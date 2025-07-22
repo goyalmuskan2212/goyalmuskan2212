@@ -1,5 +1,4 @@
-# 💫 About Me:
-Hello, I'm Muskan...
+# Muskan's Profile
 
 
 ## 🌐 Socials:
