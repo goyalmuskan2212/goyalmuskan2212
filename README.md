@@ -1,9 +1,11 @@
 # Hi, I'm **Muskan Goyal** 👋
 Web Developer | AI/ML Enthusiast
 
-💻 Passionate about building web applications and exploring Artificial Intelligence & Machine Learning.
-🌱 Currently learning and improving my skills in ML and software development.
-🤝 Open to collaboration and contributions on interesting projects.
+-> Passionate about building web applications and exploring Artificial Intelligence & Machine Learning.
+
+-> Currently learning and improving my skills in ML and software development.
+
+-> Open to collaboration and contributions on interesting projects.
 
 
 
