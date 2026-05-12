@@ -1,4 +1,4 @@
-# Hi, I'm **Muskan Goyal** 👋
+# Hi, I'm **Muskan Goyal** 
 Web Developer | AI/ML Enthusiast
 
 -> Passionate about building web applications and exploring Artificial Intelligence & Machine Learning.
