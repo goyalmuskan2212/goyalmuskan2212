@@ -1,25 +1,109 @@
-# Hi, I'm **Muskan Goyal** 
-Web Developer | AI/ML Enthusiast
+# Hi there, I'm **Muskan Goyal** 👋
 
--> Passionate about building web applications and exploring Artificial Intelligence & Machine Learning.
+### 🚀 Web Developer | AI/ML Enthusiast | 📊 Data Analyst Enthusiast
 
--> Currently learning and improving my skills in ML and software development.
+Passionate about building impactful web applications, exploring Artificial Intelligence & Machine Learning, and solving real-world problems using data analytics.
 
--> Open to collaboration and contributions on interesting projects.
+Currently focused on improving my skills in:
 
+* Machine Learning
+* Full Stack Web Development
+* Data Analytics
+* Problem Solving & DSA
+* SQL & Power BI
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/muskan-goyal-90aa48273) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:www.linkedin.com/in/muskan-goyal-90aa48273) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=goyalmuskan2212&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=goyalmuskan2212&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=goyalmuskan2212&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I enjoy working on real-world projects, building scalable solutions, and collaborating on innovative ideas that create value.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=goyalmuskan2212&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin\&logoColor=white)](YOUR_LINKEDIN_URL)
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail\&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
+
+---
+
+# 💻 Tech Stack
+
+## Programming Languages
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge\&logo=javascript)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge\&logo=python)
+
+---
+
+## Frontend & Backend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge\&logo=tailwind-css)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge\&logo=node.js)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge\&logo=express)
+
+---
+
+## Database & Tools
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge\&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge\&logo=github)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman)
+
+---
+
+## Data Analytics & Libraries
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-FFFFFF?style=for-the-badge\&logo=matplotlib)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge\&logo=powerbi)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge\&logo=microsoft-excel)
+
+---
+
+## Deployment
+
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel)
+![Netlify](https://img.shields.io/badge/Netlify-000000?style=for-the-badge\&logo=netlify)
+
+---
+
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=goyalmuskan2212\&theme=tokyonight\&hide_border=true\&include_all_commits=true\&count_private=true)
+
+![](https://nirzak-streak-stats.vercel.app/?user=goyalmuskan2212\&theme=tokyonight\&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=goyalmuskan2212\&theme=tokyonight\&hide_border=true\&layout=compact)
+
+---
+
+# ✨ Profile Views
+
+![](https://visitcount.itsvg.in/api?id=goyalmuskan2212\&icon=5\&color=6)
+
+---
+
+# 💡 Quote I Believe In
+
+### *"Consistency beats motivation."*
+
+---
+
+# 🤝 Open for Collaboration
+
+I’m always excited to work on:
+
+* Web Development Projects
+* Machine Learning Projects
+* Data Analytics Dashboards
+* Open Source Contributions
+* Hackathons & Innovative Ideas
+
+Let’s connect and build something amazing 🚀
+
+---
+
