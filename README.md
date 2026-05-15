@@ -75,7 +75,7 @@ I enjoy working on real-world projects, building scalable solutions, and collabo
 
 ![](https://github-readme-stats.vercel.app/api?username=goyalmuskan2212\&theme=tokyonight\&hide_border=true\&include_all_commits=true\&count_private=true)
 
-![](https://nirzak-streak-stats.vercel.app/?user=goyalmuskan2212\&theme=tokyonight\&hide_border=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=goyalmuskan2212\&theme=tokyonight\&hide_border=true)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=goyalmuskan2212\&theme=tokyonight\&hide_border=true\&layout=compact)
 
@@ -83,7 +83,7 @@ I enjoy working on real-world projects, building scalable solutions, and collabo
 
 # ✨ Profile Views
 
-![](https://visitcount.itsvg.in/api?id=goyalmuskan2212\&icon=5\&color=6)
+![](https://komarev.com/ghpvc/?username=goyalmuskan2212\&color=blue)
 
 ---
 
