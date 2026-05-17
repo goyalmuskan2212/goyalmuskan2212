@@ -10,7 +10,6 @@ Currently focused on improving my skills in:
 * Full Stack Web Development
 * Data Analytics
 * Problem Solving & DSA
-* SQL & Power BI
 
 I enjoy working on real-world projects, building scalable solutions, and collaborating on innovative ideas that create value.
 
