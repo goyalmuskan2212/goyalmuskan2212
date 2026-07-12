@@ -54,7 +54,7 @@ const muskan = {
 
 - **[AskToCrack](https://ask-to-crack-y334.vercel.app)** — AI-powered interview prep platform (React, Node.js, MongoDB)
 - **[AI Examiner](https://ai-examiner-one.vercel.app/)** — Automated answer-script evaluation using Gemini Vision (React, Flask, MongoDB)
-- **Prime Number Generator** — Fast, efficient prime number generation tool
+- **[Prime Number Generator](https://primenumgenerator-5e6c1.web.app/)** — Fast, efficient prime number generation tool
 - **[LearnRush](https://github.com/goyalmuskan2212/LearnRush)** — Free, role-based e-learning platform (MERN stack)
 
 <br/>
@@ -64,7 +64,7 @@ const muskan = {
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=goyalmuskan2212&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" />
-<img height="165" src="https://streak-stats.demolab.com/?user=goyalmuskan2212&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://streak-stats.demolab.com/?user=goyalmuskan2212&hide_border=true" />
 
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goyalmuskan2212&theme=tokyonight&hide_border=true&layout=compact" />
 
