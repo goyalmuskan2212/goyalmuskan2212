@@ -1,102 +1,83 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:8E54E9&height=220&section=header&text=Hi%20there,%20I'm%20Muskan%20Goyal&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Web%20Developer%20%7C%20AI%2FML%20Enthusiast%20%7C%20Data%20Analyst&descAlignY=55&descSize=18" />
+```
+$ whoami
+```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Building+scalable+full-stack+apps+%F0%9F%9A%80;Exploring+AI+%26+Machine+Learning+%F0%9F%A4%96;Solving+problems+with+Data+%26+DSA+%F0%9F%A7%A9;Always+learning%2C+always+building+%E2%9C%A8" alt="Typing SVG" />
+# Muskan Goyal
+
+*ECE undergrad who ended up living in the MERN stack.*
 
 </div>
 
 <br/>
 
-Passionate about building impactful web applications, exploring **Artificial Intelligence & Machine Learning**, and solving real-world problems using **data analytics**. I enjoy working on real-world projects, building scalable solutions, and collaborating on innovative ideas that create value.
+I started out solving problems the "traditional engineering" way — circuits, signals, systems — and somewhere along the way got pulled into building things people actually *use*. Now I split my time between shipping full-stack apps, chasing down bugs in production at 1 AM, and grinding DSA because I'm stubborn about getting better.
 
-```txt
-const muskan = {
-    focus: ["Machine Learning", "Full Stack Web Development", "Data Analytics", "DSA"],
-    currentlyBuilding: "AI-powered learning & interview-prep platforms",
-    funFact: "Consistency beats motivation 🚀"
-};
+I like projects with a real "why" behind them — most of what I build starts from something I personally needed and couldn't find done well.
+
+<br/>
+
+## `~/journal`
+
+```diff
++ Studying ECE at BIT Mesra
++ 700+ DSA problems solved, still counting
++ Competed in the Goldman Sachs Hackathon 2026
++ Currently deep in AI-powered web apps — think LLMs meets everyday tools
+- Sleep, occasionally, when the deploy is stable
 ```
 
 <br/>
 
-## 🌐 Connect With Me
+## `~/currently-building`
+
+**AskToCrack** — an AI-powered interview prep platform. Built the full stack myself, migrated the AI layer across three different providers when quotas ran out, and shipped it live.
+→ [ask-to-crack-y334.vercel.app](https://ask-to-crack-y334.vercel.app)
+
+**AI Examiner** — an automated answer-script evaluation tool that started as my B.Tech minor project and grew into something with real Gemini Vision integration.
+
+**LearnRush** — a free, role-based e-learning platform. MERN stack, video streaming, built to actually scale.
+→ [github.com/goyalmuskan2212/LearnRush](https://github.com/goyalmuskan2212/LearnRush)
+
+<br/>
+
+## `~/stack`
+
+I don't believe in a badge wall — here's what I actually reach for, by where it fits in a project:
+
+| | |
+|---|---|
+| **Think in** | C++, Python, JavaScript |
+| **Build with** | React, Tailwind, Node.js, Express |
+| **Store in** | MongoDB, MySQL |
+| **Ship on** | Vercel, Render, Netlify |
+| **Make sense of data with** | Pandas, NumPy, Matplotlib, Power BI |
+| **Debug with** | Git, GitHub, Postman, way too much `console.log` |
+
+<br/>
+
+## `~/philosophy`
+
+> Consistency beats motivation. Motivation shows up when it feels like it — consistency shows up on a Tuesday when nothing's working and you fix it anyway.
+
+<br/>
+
+## `~/lets-talk`
+
+I'm always up for web dev collabs, ML side-quests, data projects, hackathons, or just nerding out about a clean solution to a messy problem.
 
 <p align="left">
-<a href="YOUR_LINKEDIN_URL" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/goyalmuskan2212" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="YOUR_LINKEDIN_URL" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Gmail-say%20hi-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/goyalmuskan2212" target="_blank"><img src="https://img.shields.io/badge/GitHub-follow-181717?style=flat-square&logo=github&logoColor=white" /></a>
 </p>
 
 <br/>
 
-## 💻 Tech Stack
-
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,c,js,py,react,tailwind,nodejs,express,mongodb,mysql,git,github,postman,vercel,netlify&perline=8" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Matplotlib-black?style=for-the-badge&logo=matplotlib&logoColor=white" />
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
+`$ git log --author="Muskan Goyal" --oneline | wc -l`
+### *still counting.*
 
 </div>
-
-<br/>
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://ask-to-crack-y334.vercel.app">
-<img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=goyalmuskan2212&repo=AskToCrack&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/goyalmuskan2212/LearnRush">
-<img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=goyalmuskan2212&repo=LearnRush&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
-
-<br/>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=goyalmuskan2212&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=goyalmuskan2212&theme=tokyonight&hide_border=true" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goyalmuskan2212&theme=tokyonight&hide_border=true&layout=compact" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=goyalmuskan2212&theme=tokyonight&no-frame=true&row=1&column=6" />
-
-</div>
-
-<br/>
-
-## 🤝 Open for Collaboration
-
-<table>
-<tr>
-<td>🌐 Web Development Projects</td>
-<td>🤖 Machine Learning Projects</td>
-</tr>
-<tr>
-<td>📊 Data Analytics Dashboards</td>
-<td>🧑‍💻 Open Source Contributions</td>
-</tr>
-<tr>
-<td colspan="2" align="center">🏆 Hackathons & Innovative Ideas</td>
-</tr>
-</table>
-
-Let's connect and build something amazing 🚀
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E54E9,100:2E9EF7&height=120&section=footer" />
