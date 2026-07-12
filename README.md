@@ -64,7 +64,7 @@ const muskan = {
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=goyalmuskan2212&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" />
-<img height="165" src="https://streak-stats.demolab.com/?user=goyalmuskan2212&hide_border=true" />
+<img height="165" src="https://streak-stats.demolab.com/?user=goyalmuskan2212&theme=dark&hide_border=true&background=0D1117" />
 
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goyalmuskan2212&theme=tokyonight&hide_border=true&layout=compact" />
 
