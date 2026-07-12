@@ -53,8 +53,9 @@ const muskan = {
 ## 🚀 Featured Projects
 
 - **[AskToCrack](https://ask-to-crack-y334.vercel.app)** — AI-powered interview prep platform (React, Node.js, MongoDB)
+- **[AI Examiner](https://ai-examiner-one.vercel.app/)** — Automated answer-script evaluation using Gemini Vision (React, Flask, MongoDB)
+- **Prime Number Generator** — Fast, efficient prime number generation tool
 - **[LearnRush](https://github.com/goyalmuskan2212/LearnRush)** — Free, role-based e-learning platform (MERN stack)
-- **AI Examiner** — Automated answer-script evaluation using Gemini Vision (React, Flask, MongoDB)
 
 <br/>
 
