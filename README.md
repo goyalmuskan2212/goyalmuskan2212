@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:2E9EF7&height=220&section=header&text=Hi%20there,%20I'm%20Muskan%20Goyal&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI%2FML%20Enthusiast%20%7C%20Data%20Analyst&descAlignY=55&descSize=18" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=900&color=2E9EF7&center=true&vCenter=true&width=650&lines=Building+AI-powered+full-stack+apps+%F0%9F%9A%80;LLMs+%2B+RAG+%2B+Agentic+Workflows+%F0%9F%A4%96;Solving+problems+with+DSA+%26+Data+%F0%9F%A7%A9;Consistency+beats+motivation+%E2%9C%A8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=900&color=2E9EF7&center=true&vCenter=true&width=650&lines=Building+AI-powered+full-stack+apps+%F0%9F%9A%80;Solving+problems+with+DSA+%26+Data+%F0%9F%A7%A9;Consistency+beats+motivation+%E2%9C%A8" alt="Typing SVG" />
 
 <br/>
 
@@ -18,13 +18,9 @@
 
 Passionate about building impactful web applications, exploring **Artificial Intelligence & Machine Learning**, and solving real-world problems using **data analytics**. I enjoy working on real-world projects, building scalable solutions, and collaborating on ideas that create value.
 
-<div align="center">
-
-| 🔭 Focus | 🧠 Currently Building | ⚡ Fun Fact |
-|:---:|:---:|:---:|
-| ML · Full-Stack Dev · Data Analytics · DSA | AI-powered learning & interview-prep platforms | Consistency beats motivation 🚀 |
-
-</div>
+- 🔭 **Focus:** Machine Learning · Full-Stack Web Development · Data Analytics · DSA
+- 🧠 **Currently Building:** AI-powered learning & interview-prep platforms
+- ⚡ **Fun Fact:** Consistency beats motivation 🚀
 
 <br/>
 
