@@ -18,13 +18,13 @@
 
 Passionate about building impactful web applications, exploring **Artificial Intelligence & Machine Learning**, and solving real-world problems using **data analytics**. I enjoy working on real-world projects, building scalable solutions, and collaborating on ideas that create value.
 
-```txt
-const muskan = {
-    focus: ["Machine Learning", "Full Stack Web Development", "Data Analytics", "DSA"],
-    currentlyBuilding: "AI-powered learning & interview-prep platforms",
-    funFact: "Consistency beats motivation 🚀"
-};
-```
+<div align="center">
+
+| 🔭 Focus | 🧠 Currently Building | ⚡ Fun Fact |
+|:---:|:---:|:---:|
+| ML · Full-Stack Dev · Data Analytics · DSA | AI-powered learning & interview-prep platforms | Consistency beats motivation 🚀 |
+
+</div>
 
 <br/>
 
